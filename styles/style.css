@@ -2,4 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    height: 2000px;
+}
+.header__nav {
+    background: indigo;
+    height: 50vh;
+}
+.header__content {
+    background: #000;
+    color: #fff;
+    height: 50vh;
 }
