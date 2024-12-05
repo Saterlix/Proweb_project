@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .header__nav {
-    background: indigo;
+    background: rgb(230, 0, 122);
     color: #fff;
     height: 50vh;
     display: flex;
