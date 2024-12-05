@@ -2,14 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    height: 2000px;
 }
 .header__nav {
     background: indigo;
+    color: #fff;
     height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .header__content {
     background: #000;
     color: #fff;
     height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
